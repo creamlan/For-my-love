@@ -1,0 +1,50 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "Gửi tới Lam",
+                "Chào cậu nhé",
+                "Ngày hôm nay của cậu như thế nào",
+                "Có ổn ko?",
+                "Tặng cậu nè",
+                "<pre>────(♥)(♥)(♥)────(♥)(♥)(♥) \n──(♥)██████(♥)(♥)██████(♥)  \n─(♥)████████(♥)████████(♥)  \n─(♥)██████████████████(♥)  \n──(♥)████████████████(♥) \n────(♥)████████████(♥) \n──────(♥)████████(♥) \n────────(♥)████(♥) \n─────────(♥)██(♥) \n───────────(♥) </pre>",
+                "Hằng ngày tớ luôn nhớ cậu, mong được gặp cậu😘",
+                "Thức thâu đêm để nghĩ suy về cậu",
+                "Cậu luôn ở trong tâm trí tớ…",
+                "<img src='img/Lam2.jpg'>",
+                "Chờ 1 tí🙂",
+                "Để tớ cho cậu xem vẻ đẹp của cậu😘",
+                "<img src='img/Lam6.jpg'>",
+                "<img src='img/Lam4.jpg'>",
+                "<img src='img/Lam3.jpg'>",
+                "<img src='img/Lam9.jpg'>",
+                "<img src='img/Lam7.jpg'>",
+                "Mỗi ngày gặp cậu📅",
+                "Là một niềm hạnh phúc đối với tớ📬",
+                "Tớ đã suy nghĩ rất nhiều🤔",
+                "Tớ mong cậu sẽ hiểu được💑",
+                "Tình cảm của tớ dành cho cậu😍",
+                "<img src='img/marry-me.png'>",
+                "Làm người yêu tớ nhé💍"
+            ]
+        ],
+        "responses": [{
+            "content": "Tớ đồng ý 💞",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "<img src='img/kiss-my-princess.png'>",
+                "Tớ vui lắm😁",
+                "Cậu là mối tình đầu tiên của tớ😍",
+                "Tớ sẽ cố gắng mỗi ngày😘",
+                "Để mối quan hệ này sẽ được lâu dài😙",
+                "Cảm ơn vì đã xem :3"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
